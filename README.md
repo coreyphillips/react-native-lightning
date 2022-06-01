@@ -1,5 +1,10 @@
 # react-native-lightning
 
+##[DEPRECATED]
+###Please consider using either of the following libraries instead:
+ - https://github.com/synonymdev/react-native-lightning
+ - https://github.com/LtbLightning/rn-ltbl
+
 :warning: This is pre-alpha software. Please use as your own risk.
 
 ### Description
